@@ -1,6 +1,6 @@
 # Uncertainty-Aware Dynamic Fusion Network with Criss-Cross Attention for Multimodal Remote Sensing Land Cover Classification
 
-## Dataset
+## Dataset&weight
 
 Dataset download link: https://pan.baidu.com/s/1mBqmVVLpfqDoqkcVKtl0ag?pwd=84fb
 
